@@ -1,0 +1,32 @@
+body {
+height: 100vh;
+	background: linear-gradient(
+		to right,
+		#FF5454 0%,
+		#FF5454 50%,
+		#4AA0FF 50%,
+		#4AA0FF 100%
+	);
+}
+
+.margin {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.zoom {
+	zoom: 1.2;
+	color:  #FFFBFC;
+}
+
+h2 {
+	color: #FFFFFF;
+}
+
+h4 {
+	color: #FFFFFF;
+}
+
+h6 {
+	color: #FFFFFF;
+}
