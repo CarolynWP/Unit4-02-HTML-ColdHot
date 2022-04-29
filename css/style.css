@@ -1,10 +1,14 @@
 body {
-height: 100vh;
+height: 50vh;
 	background: linear-gradient(
 		to right,
 		#FF5454 0%,
-		#FF5454 50%,
-		#4AA0FF 50%,
+		#FF5454 25%,
+		#ff2e2e 25%,	
+		#ff2e2e 50%,	
+		#2e93ff 50%,
+		#2e93ff 75%,
+		#4AA0FF 75%,
 		#4AA0FF 100%
 	);
 }
@@ -12,6 +16,7 @@ height: 100vh;
 .margin {
 	margin-left: 20px;
 	margin-right: 20px;
+	text-align: center;
 }
 
 .zoom {
@@ -20,13 +25,16 @@ height: 100vh;
 }
 
 h2 {
-	color: #FFFFFF;
+	background-color: #a600ff;
+	color: #f0f0f0;
 }
 
 h4 {
-	color: #FFFFFF;
+	color: #f0f0f0;
+	background-color: #7b00bd;
 }
 
 h6 {
-	color: #FFFFFF;
+	color: #f0f0f0;
+	background-color: #a600ff;
 }
